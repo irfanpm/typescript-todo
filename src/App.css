@@ -1,0 +1,15 @@
+
+.abc {
+    background: linear-gradient(to bottom, #888b92, #d3d9da); /* Customize your gradient colors here */
+    /* Other styling properties */
+    padding: 20px;
+    border-radius: 10px;
+    
+
+  }
+
+  li{
+    list-style: none;
+  }
+
+  
